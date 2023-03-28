@@ -3,12 +3,12 @@ import styled from 'styled-components';
 import Section from "./Section";
 
 function Home() {
-    
+
     return (
       <Container>
           <Section 
               title="Model 3"
-              describtion="Leasing starting at &dollar;349/mo"
+              describtion="Leasing starting at $349/mo"
               backgroundImg="model-3.jpg"
               leftButton="Custom Order"
               rightButton="Demo Drive"
